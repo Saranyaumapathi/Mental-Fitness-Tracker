@@ -26,5 +26,7 @@ To analyze mental health indicators and generate meaningful insights using data 
 The system generates:
 - Printed analytical results
 - Graphical comparison of mental fitness scores
+  ## 📊 Mental Fitness Analysis Graph
 
-## 📊 Mental Fitness Analysis Graph
+![Mental Fitness Graph](mental_fitness_graph.png)
+
