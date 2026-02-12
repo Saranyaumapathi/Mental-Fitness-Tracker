@@ -29,5 +29,6 @@ The system generates:
 
 ## 📊 Mental Fitness Analysis Graph
 
-![Mental Fitness Graph](mental_fitness_graph.png)
+![Mental Fitness Graph](images/mental_fitness_graph.png)
+
 
