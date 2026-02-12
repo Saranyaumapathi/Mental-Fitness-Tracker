@@ -28,7 +28,3 @@ The system generates:
 - Graphical comparison of mental fitness scores
 
 ## 📊 Mental Fitness Analysis Graph
-
-![Mental Fitness Graph](images/mental_fitness_graph.png)
-
-
